@@ -69,14 +69,14 @@ Here's a high-protein, plant-based meal plan that utilizes the ingredients you p
 
 Please note, the amounts are approximate, given variations in the nutritional content of different brands and products, as well as natural variations in fresh produce. Always check labels and use a nutritional database to verify.
 
-Day 1:
+* Day 1:
   Breakfast:
     Oatmeal (80g dry oats) with almond milk (300ml), topped with 1 apple (182g) and 15g of flaxseeds.
   Lunch:
     Quinoa salad: cooked quinoa (150g), 1/2 an avocado (100g), tomatoes (150g), 100g of chickpeas, and 30g of olive oil for dressing.
   Snack: A handful of almonds (30g).
   Dinner: Stir-fried tofu (200g) with broccoli (200g), carrots (100g), and brown rice (150g cooked).
-Day 2:
+* Day 2:
   Breakfast:
     Smoothie with 1 orange (160g), a handful of mixed berries (150g), plant-based protein powder (30g), and almond milk (300ml).
   Lunch:
@@ -85,7 +85,7 @@ Day 2:
     A handful of walnuts (30g).
   Dinner:
     Baked sweet potato (200g), served with a side of roasted Brussels sprouts (200g) and kidney beans (100g cooked).
-Day 3:
+* Day 3:
   Breakfast:
     Overnight oats (80g dry oats) with almond milk (300ml), topped with blueberries (150g) and chia seeds (15g).
   Lunch:
@@ -103,7 +103,7 @@ Finally, although your provided list is quite comprehensive, you may also want t
 
 If you were to incorporate animal products, lean meats such as chicken, turkey, or fish could help boost your protein intake without adding many calories. Dairy products, especially Greek yogurt and cottage cheese, are also good high-protein options. However, you should be able to meet your protein requirements with the plant-based foods listed, especially when including a plant-based protein powder.
 
-Day 4:
+* Day 4:
   Breakfast:
     Smoothie with 1 orange (160g), a handful of mixed berries (150g), plant-based protein powder (30g), and almond milk (300ml).
   Lunch:
@@ -112,7 +112,7 @@ Day 4:
     A handful of walnuts (30g).
   Dinner:
     Stir-fried tempeh (200g) with cauliflower (200g), bell peppers (100g), and quinoa (150g cooked).
-Day 5:
+* Day 5:
   Breakfast:
     Oatmeal (80g dry oats) with almond milk (300ml), topped with an apple (182g) and flaxseeds (15g).
   Lunch:
@@ -121,7 +121,7 @@ Day 5:
     A handful of almonds (30g).
   Dinner:
     Baked sweet potato (200g) with black beans (100g cooked) and steamed broccoli (200g).
-Day 6:
+* Day 6:
   Breakfast:
     Smoothie with 1 orange (160g), a handful of mixed berries (150g), plant-based protein powder (30g), and almond milk (300ml).
   Lunch:
@@ -130,7 +130,7 @@ Day 6:
     A handful of walnuts (30g).
   Dinner:
     Tofu stir fry (200g) with brown rice (150g cooked), bell peppers (100g), and onions (100g).
-Day 7:
+* Day 7:
   Breakfast:
     Overnight oats (80g dry oats) with almond milk (300ml), topped with blueberries (150g) and chia seeds (15g).
   Lunch:
